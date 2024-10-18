@@ -1,2 +1,31 @@
-# Zombie_Attack
- Apocalypse Simulation  This project simulates a post-apocalyptic scenario where a group of survivors must navigate a world overrun by zombies. Players will need to manage resources, fight off zombies, and search for food and other survivors to increase their chances of survival.  Key Features:  Zombie Encounters: Survivors will face waves of zombies and must fight them off using their limited resources. Resource Management: Players will need to carefully manage their food, health, and ammunition supplies. Survivor Recruitment: Survivors can search for and recruit other survivors who may have separated from the group. Food Acquisition: Players must actively search for food to sustain their group. Day-to-Day Survival: The simulation tracks the passage of time and the dwindling resources, creating a sense of urgency and challenge. Gameplay:  Initialization: The game starts with a group of survivors and a limited supply of resources. Daily Cycle: Each day, players will: Generate new zombies Feed the survivors Simulate a battle with zombies Search for food and other survivors Update remaining days and resources Win/Lose Conditions: The game ends if all survivors are killed or if there is no food left. The player wins if they manage to survive until the specified number of days has passed. Additional Features (Optional):  Crafting: Survivors can create weapons or tools using found materials. Base Building: Players can build a base to provide shelter and protection. Character Customization: Players can customize their survivors' attributes and skills. Technical Implementation:  Programming Language: Java Data Structures: Use appropriate data structures to represent survivors, zombies, resources, and game state. Random Number Generation: Utilize random number generation to simulate events like zombie encounters and resource discovery. Output: Provide clear and informative output, such as daily status updates, battle results, and win/lose messages.
+# Apocalypse Simulation
+
+A post-apocalyptic survival game where players lead a group of survivors against hordes of zombies. Manage resources, fight off attacks, and search for food and other survivors to stay alive.
+
+**Key Features:**
+
+- Zombie encounters
+- Resource management
+- Survivor recruitment
+- Food acquisition
+- Daily survival challenges
+
+**Gameplay:**
+
+- Start with a group of survivors and limited resources.
+- Face daily waves of zombies.
+- Feed your survivors and manage supplies.
+- Search for food and recruit other survivors.
+- Survive until the end of the specified time period.
+
+**Optional Features:**
+
+- Crafting
+- Base building
+- Character customization
+
+**Technical Details:**
+
+- Written in Java
+- Uses random number generation and data structures
+- Provides informative output
